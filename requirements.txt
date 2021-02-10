@@ -1,0 +1,10 @@
+awscli
+boto3
+bs4
+ipynb
+matplotlib
+numpy
+pandas
+pandas_profiling<2.10
+scikit-learn
+seaborn
